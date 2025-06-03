@@ -42,7 +42,7 @@ A simple cryptographic system using **RSA** (public-key) and **AES-GCM** (symmet
 
 - Encrypt AES key with RSA (asymmetric, secure key exchange)
 
-Package everything into a single encrypted JSON file
+- Package everything into a single encrypted JSON file
 
 ### Files in This Project
 File	Purpose
